@@ -1,0 +1,38 @@
+{
+  "productList": [
+    {
+      "name": "Ноутasd",
+      "category": "Мониторы",
+      "productCondition": "После ремонта",
+      "price": 1234,
+      "comment": "какой-то ноут",
+      "date": "2022-09-12T00:00:00.000Z",
+      "id": 1
+    },
+    {
+      "name": "sdfsdfs",
+      "category": "Мониторы",
+      "productCondition": "Новый",
+      "price": 2113,
+      "comment": "asdasdasd",
+      "date": "2022-09-08T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "name": "asdfasdf",
+      "category": "Мониторы",
+      "productCondition": "Новый",
+      "price": 1231,
+      "comment": "asdasdasd",
+      "date": "2022-09-13T21:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
